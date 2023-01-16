@@ -20,4 +20,4 @@ New Update: **Extremely Accurate PHP cPanel Tools**
 
 **Copyright © 2023 by Dope Creator. All Rights Reserved!**
 
-![Image](https://raw.githubusercontent.com/orionhridoy/Mass-cPanel-Killer-Tools/main/img/Working.JPG)]
+![Image](https://raw.githubusercontent.com/orionhridoy/cPanel-Karma/main/img/Working.JPG)]
