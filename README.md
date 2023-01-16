@@ -17,6 +17,7 @@ New Update: **Extremely Accurate PHP cPanel Tools**
 
 **CPANEL Format:** https://domain:2083|user|pass
 
+**Update Feature:** You can create unlimited SMTP from only one cPanel. You can even generate 1M SMTP from a single SMTP.
 
 **Copyright © 2023 by Dope Creator. All Rights Reserved!**
 
