@@ -1,10 +1,10 @@
 # cPanel-Karma
 
+**Update Feature:** You can create unlimited SMTP from only one cPanel. You can even generate 1 Million SMTP from a single SMTP.
+
 Usage: **php karma.php**
 
 The results will save in [**yourtext.txt**]
-
-**Update Feature:** You can create unlimited SMTP from only one cPanel. You can even generate 1 Million SMTP from a single SMTP.
 
 **Extremely Accurate PHP cPanel Tools**
 
