@@ -1,4 +1,4 @@
-# cPanel-Karma
+# cPanel Karma
 
 **Update Feature:** You can create unlimited SMTP from only one cPanel. You can even generate 1 Million SMTP from a single SMTP.
 
